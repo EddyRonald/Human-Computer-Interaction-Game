@@ -21,7 +21,7 @@ Los archivos son subidos a un google drive porque pesan mucho
     - pip install SpeechRecognition
 
  ### Cambio de direcciones en los archivos
-    - El el video se indica los cambios de direcciones que se tiene que haceer según la dirección de sus archivos
+    - En el video se indica los cambios de direcciones que se tiene que haceer según la dirección de sus archivos
     
 
 
