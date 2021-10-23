@@ -1,5 +1,5 @@
 # Human-Computer-Interaction-Game
-Este repositorio contiene información sobre el proyecto que se realiza en el curso HCI. Se implemento un videojuego en Unity3D básico de momento, este videojuego usa las siguientes tecnologías:
+Este repositorio contiene información sobre el proyecto que se realiza en el curso HCI. Se implemento un videojuego en Unity3D básico de momento, los archivos son subidos a un google drive por problemas de tamaño.
 ### Archivos del videojuego
     - https://drive.google.com/file/d/1gIv5ALHlh6ZhTL6TuBQSpbqYBQjPv8-D/view?usp=sharing
 ### Video tutorial del juego
